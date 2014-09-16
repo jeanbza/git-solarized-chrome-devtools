@@ -12,7 +12,7 @@ Solarized light theme for your chrome dev tools.
 1. Restart chrome
 1. Go to developer settings (CMD+ALT+I on Mac)
 1. Click the settings icon (a small cog)
-![](img/settings_widget.png)
+![](img/settings_widget.png =100x20)
 1. Click 'experiments', and then enable 'Allow Custom UI Themes'
 ![](img/ui_themes.png)
 1. Navigate to `chrome://extensions/`
