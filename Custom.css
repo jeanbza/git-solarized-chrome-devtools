@@ -1786,8 +1786,8 @@ body.inactive .sidebar-tree-item.selected,
 .help-window-main {
   color: #002b36 !important;
   /***************************************************
-  /* Workspaces Dialog Box
-  ****************************************************/
+	/* Workspaces Dialog Box
+	****************************************************/
 }
 .help-window-main .settings-tab-container header {
   border-bottom: 1px solid #ffffff !important;
