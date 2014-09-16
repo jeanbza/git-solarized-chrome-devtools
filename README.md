@@ -17,3 +17,8 @@ Solarized light theme for your chrome dev tools.
 1. Click 'Load unpackaged extensions' and select the folder your cloned in step 1
 1. Open dev tools again - no reload needed - and your changes should be there!
 ![](img/final.png)
+
+## Credit
+
+- Method: [A stackoverflow post detailing the Chrome 33+ changes](http://stackoverflow.com/questions/21207474/custom-css-stop-to-work-in-32-0-1700-76-m-google-chrome-update)
+- CSS: [Bram de Haan](http://atelierbram.github.io/syntax-highlighting/chrome-devtools/zero-base-themes/canary-theme-extension/styles.css)
